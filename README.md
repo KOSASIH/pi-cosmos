@@ -49,5 +49,5 @@ If you encounter any issues while using pi-cosmos, consult the following resourc
 
 # License
 
-pi-cosmos is released under the MIT License. See the LICENSE file for details.
+pi-cosmos is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
