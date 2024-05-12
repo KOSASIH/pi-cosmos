@@ -43,9 +43,9 @@ The pi-cosmos project includes several scripts for monitoring and managing the c
 
 If you encounter any issues while using pi-cosmos, consult the following resources for troubleshooting assistance:
 
-1. Raspberry Pi Cluster Basics
-2. Setting up a Raspberry Pi cluster with Kubernetes
-3. Building a Raspberry Pi cluster with Ansible
+1. [Raspberry Pi Cluster Basics](https://www.raspberrypi.org/learning/raspberry-pi-cluster-basics/) 
+2. [Setting up a Raspberry Pi cluster with Kubernetes](https://www.raspberrypi.org/learning/kubernetes-cluster/) 
+3. [Building a Raspberry Pi cluster with Ansible](https://www.raspberrypi.org/learning/ansible-cluster/) 
 
 # License
 
