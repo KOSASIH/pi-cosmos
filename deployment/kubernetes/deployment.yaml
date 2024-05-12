@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: computer-vision-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: computer-vision
+  template:
+    metadata:
+      labels:
+        app: computer-vision
+    spec:
+      containers:
+      - name: computer-vision
+        image: <your-docker-image>
+        ports:
+        - containerPort: 5000
