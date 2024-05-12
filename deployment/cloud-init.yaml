@@ -1,0 +1,8 @@
+#cloud-config
+
+packages:
+  - docker.io
+
+runcmd:
+  - docker pull <your-docker-image>
+  - docker run -d -p 5000:5000 <your-docker-image>
